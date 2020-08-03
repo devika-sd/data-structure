@@ -10,5 +10,8 @@ import java.util.*;
       System.out.println(list);  
       //get
       System.out.println(al.get(1));
+      //set
+      al.set(0,"A");
+      al.set(1,"Good");
  }  
 } 
