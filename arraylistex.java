@@ -8,5 +8,7 @@ import java.util.*;
       list.add("blessing");    
       //Printing the arraylist object   
       System.out.println(list);  
+      //get
+      System.out.println(al.get(1));
  }  
 } 
